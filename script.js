@@ -41,7 +41,7 @@ const modals = () => {
             document.body.style.overflow = 'hidden';
         }, time);
     }
-
+    // Убрать Сдвиг скролла страницы
     function culcScroll() { 
         let div = document.createElement('div');
 
